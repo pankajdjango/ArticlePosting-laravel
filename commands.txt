@@ -1,0 +1,10 @@
+put the database file:  cp /home/pankaj/Downloads/database.sqlite  database/
+
+php artisan storage:link
+
+
+sudo apt-get install php8.2-sqlite3
+php -m #show all commands
+composer install 
+runserver: php artisan serve
+
